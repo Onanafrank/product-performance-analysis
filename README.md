@@ -1,11 +1,11 @@
 # product-performance-analysis
-Research question
+Research question:
 In an increasingly competitive e-commerce environment, how can product performance be analysed and modelled in order to better understand and anticipate consumer purchasing behaviour?
 
-General objective
+General objective:
 To analyse and model product performance in an e-commerce context
 
-Specific objectives
+Specific objectives:
 To develop and compare various machine learning models for predicting sales performance
 To identify the factors that have the greatest influence on customer satisfaction
 
@@ -13,7 +13,7 @@ A synthetic yet realistic dataset from Kaggle, simulating an e-commerce environm
 This dataset comprises 2,000 records and 9 variables
 (product price, discount rate, average customer rating, number of reviews, stock availability, delivery time, return rate, category ID)
 
-Pre-processing and exploratory analysis
+Pre-processing and exploratory analysis:
 Imputation of missing values: median for quantitative variables, mode for the qualitative variable (stock availability)
 Identification of outliers and standardisation of quantitative variables.
 Split the dataset into 80% training and 20% test.
